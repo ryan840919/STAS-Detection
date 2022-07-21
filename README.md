@@ -17,3 +17,6 @@ We label out the [prediciton and ground true](./Prediction_and_Ground_true.ipynb
 
 ### Analysis
 We [analyze](./Analysis.ipynb) the false_positive and false_negative area's size and color element, and also devide them by their score.
+
+## Submmision
+Last, we [submit](./Submmision.ipynb) our train result in a require form back to the contest and get the final test score.
