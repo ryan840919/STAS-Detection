@@ -1,2 +1,2 @@
 # STAS-Detection
-[test](./submission)
+[test](./Submission.ipynb)
